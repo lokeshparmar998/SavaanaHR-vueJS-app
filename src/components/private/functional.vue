@@ -25,11 +25,11 @@
     
       <div class="container-flex">-->
         <div class="wrapper">
-            <input type="text" name="" id="" placeholder="Role,designation and functional area" class="input-field role">
-            <input type="text" name="" id="" placeholder="Locations" class="input-field location">
-            <input type="text" name="" id="" placeholder="Salary" class="input-field salary">
-            <input type="text" name="" id="" placeholder="Experience" class="input-field experience">
-            <button class="btn btn-primary"><i class="fa fa-search" aria-hidden="true"></i></button>
+            <input type="text" name="" id="" placeholder="  Role,designation and functional area" class="input-field role">
+            <input type="text" name="" id="" placeholder="  Locations" class="input-field location">
+            <input type="text" name="" id="" placeholder="  Salary" class="input-field salary">
+            <input type="text" name="" id="" placeholder="  Experience" class="input-field experience">
+            <button class="btn btn-primary"><i class="fa fa-search fa-lg" aria-hidden="true"></i></button>
         </div>
       </div>
     
@@ -56,7 +56,6 @@ button{
 .wrapper{
   border: 0.5px solid lightgrey;
   padding: 10px;
-  
 }
 .location{
   width: 230px;

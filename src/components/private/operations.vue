@@ -23,6 +23,7 @@ export default {
 .functional{
   margin-left: 10px;
   border: 1px solid lightgrey;
+  color: #495057;
 }
 .content{
   padding: 5px;

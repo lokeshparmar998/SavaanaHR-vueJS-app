@@ -46,6 +46,7 @@ ul{
   display: table;
   height: 100%;
   float: left;
+  font-family: "Source Sans Pro", sans-serif;
 }
 
 .innernav a li{
